@@ -15,8 +15,7 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 ## 🔨 **Tech Stack**  
 🔹 **Languages**: SystemVerilog, Embedded C,   
-🔹 **IC Design & Verification**: **Questa Sim, Quartus,...** 
-🔹 **Embedded Platforms**: **AVR, FPGA**  
+🔹 **IC Design & Verification**: **Questa Sim, Quartus,...**   
 🔹 **PCB Design**: **Altium Designer**  
 🔹 **Operating Systems**: **Linux, Windows**  
 
@@ -24,6 +23,6 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 
 ## 📫 **Let's Connect!**  
-📌 **LinkedIn**: [https://www.linkedin.com/in/hoang-vo-quoc-94404034b/)  
+📌 **LinkedIn**: [Hoang Vo Quoc}(Hoa[Hohttps://www.linkedin.com/in/hoang-vo-quoc-9440) 
 📧 **Email**: voquochoang910@gmail.com  
 
