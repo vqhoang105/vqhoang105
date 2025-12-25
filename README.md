@@ -22,7 +22,7 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 
 ## 📫 **Let's Connect!**  
-📌 **LinkedIn**: [Hoang Vo Quoc](https://www.linkedin.com/in/hoang-vo-quoc-9440) 
+📌 **LinkedIn**: [Hoang Vo Quoc](https://www.linkedin.com/in/hoang-vo-quoc-9440)      
 📧 **Email**: voquochoang910@gmail.com  
 
 🌟 **Feel free to explore my projects and reach out for collaborations!** 🚀 
