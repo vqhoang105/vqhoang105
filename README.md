@@ -8,8 +8,7 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 ## 💡 **What I Do**  
 ✅ **Digital IC Design**: Design verification using **SystemVerilog**, verification with some tools like: **Questa Sim, Quartus,...**.  
-✅ **Embedded Systems Development**: Programming microcontrollers using **Embedded C** for applications.  
-
+✅ **Embedded Systems Development**: Design PCB for embeded system
 
 ---  
 
