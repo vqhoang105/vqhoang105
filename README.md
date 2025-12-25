@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm **Vo Quoc Hoang**  
 
-<!--
-**vqhoang105/vqhoang105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Digital IC Design**  
 
-Here are some ideas to get you started:
+Currently, I'm a **third-year student** at **Ho Chi Minh City University of Technology (HCMUT)**, focusing on **Design vefication, Design PCB**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## 💡 **What I Do**  
+✅ **Digital IC Design**: Design verification using **SystemVerilog**, verification with some tools like: **Questa Sim, Quartus,...**.  
+✅ **Embedded Systems Development**: Programming microcontrollers using **Embedded C** for applications.  
+
+
+---  
+
+## 🔨 **Tech Stack**  
+🔹 **Languages**: SystemVerilog, Embedded C,   
+🔹 **IC Design & Verification**: **Questa Sim, Quartus,...** 
+🔹 **Embedded Platforms**: **AVR, FPGA**  
+🔹 **PCB Design**: **Altium Designer**  
+🔹 **Operating Systems**: **Linux, Windows**  
+
+---  
+
+
+## 📫 **Let's Connect!**  
+📌 **LinkedIn**: [https://www.linkedin.com/in/hoang-vo-quoc-94404034b/)  
+📧 **Email**: voquochoang910@gmail.com  
+
